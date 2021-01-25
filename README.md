@@ -15,4 +15,4 @@ A user story is a way to capture requirements for an app from an end-user perspe
 [x]Display a nice default placeholder graphic for each image during loading (read more about Glide).
 
 ## walk through
-![Flix walk through GIF](https://i.imgur.com/ETQSDaa.gif "Flix walk through GIF")
+![Flix](https://i.imgur.com/ETQSDaa.gif "Flix walk through GIF")
